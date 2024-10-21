@@ -1,0 +1,21 @@
+
+#background {
+  background-color: #add8e6;
+}
+
+
+.tag{
+
+  background-color: white;
+}
+
+.tags{
+  padding: auto;
+}
+
+body{
+
+  font-family: sans-serif;
+  font-size: 25px;
+  font-style: bold;
+}
